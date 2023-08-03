@@ -116,7 +116,8 @@ Overall, "PyTorch" is represented as a brand name and follows its own unique nam
 
 10. Documentation and Community: PyTorch has comprehensive documentation that covers the usage and implementation details of its various modules and functions. The PyTorch community is active and engaged, providing support, sharing tutorials, and contributing to the development of the framework.
 
-[@pythorch](https://pytorch.org/)
 These aspects contribute to the flexibility, ease of use, and power of PyTorch as a deep learning framework. PyTorch's codebase is well-structured, leveraging object-oriented programming principles and providing high-level abstractions for building and training neural networks.
+
+[@pythorch](https://pytorch.org/)
 
 ---
