@@ -1,4 +1,4 @@
- <span style="color:red;"> # PyTorch </span>
+ <span style="color:red; font-weight:bold;"> PyTorch </span>
 PyTorch is another popular open-source machine learning framework. It is primarily developed and maintained by Facebook's AI Research (FAIR) lab. PyTorch provides a dynamic computational graph, which makes it easy to build and train neural networks.
 
 Here are some key features and aspects of PyTorch:
